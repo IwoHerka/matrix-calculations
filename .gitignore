@@ -1,0 +1,7 @@
+bin/*
+!bin/.gitkeep
+tags
+data/*dat
+data/*txt
+*.swp
+*.out
