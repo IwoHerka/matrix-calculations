@@ -3,5 +3,6 @@ bin/*
 tags
 data/*dat
 data/*txt
+!data/.gitkeep
 *.swp
 *.out
