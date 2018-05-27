@@ -1,5 +1,5 @@
 
-### Matrix Calculations With Blocking, BLAS, Phtreads OpenMP and MPI
+### Matrix Calculations With Blocking, BLAS, Pthreads OpenMP and MPI
 
 This project was created during my High-Performance Computing course as part of the Master's degree in Software Engineering on University College Dublin, 2017/2018. I'm uploading it in hope it be may be useful to other students.
 
