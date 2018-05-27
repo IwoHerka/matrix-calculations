@@ -125,5 +125,10 @@ This little wrapper script is used as a shorthand when debugging. It accepts the
 5. `test_pthread` - Tests Pthreads performance in matrix norm calculation.
 6. `test_mpi_np_dependence` - Tests MPI performance against number of processes.
 
+#### Results
+
+<p align="center">
+    <img align="center" src="https://raw.githubusercontent.com/IwoHerka/matrix-calculations/master/norm_calc_results.png">
+</p>
 
 
