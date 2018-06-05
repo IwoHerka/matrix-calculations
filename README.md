@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5230fa323bd644f18aafa8f5e954f05e)](https://www.codacy.com/app/IwoHerka/matrix-calculations?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=IwoHerka/matrix-calculations&amp;utm_campaign=Badge_Grade)
 
 ### Matrix Calculations With Blocking, BLAS, Pthreads OpenMP and MPI
 
